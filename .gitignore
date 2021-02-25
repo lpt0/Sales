@@ -1,0 +1,8 @@
+# Anything with a leading underscore should not be included in the repo
+_*
+
+# Ignore log files
+*_log.txt
+
+# Don't store uploaded files
+htdocs/upload
